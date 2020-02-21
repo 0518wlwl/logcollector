@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="logcollector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/logcollector_jar</output-path>
+    <root id="root">
+      <element id="archive" name="logcollector.jar">
+        <element id="module-output" name="logcollector" />
+      </element>
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.51" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.0.7" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.20" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.0.7" />
+    </root>
+  </artifact>
+</component>
